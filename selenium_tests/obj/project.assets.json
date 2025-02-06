@@ -1903,11 +1903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nitishkumar/Rohit/selenium_tests/selenium_tests.csproj",
+      "projectUniqueName": "/Users/nitishkumar/Downloads/git online/testsaleniumrohit/selenium_tests/selenium_tests.csproj",
       "projectName": "selenium_tests",
-      "projectPath": "/Users/nitishkumar/Rohit/selenium_tests/selenium_tests.csproj",
+      "projectPath": "/Users/nitishkumar/Downloads/git online/testsaleniumrohit/selenium_tests/selenium_tests.csproj",
       "packagesPath": "/Users/nitishkumar/.nuget/packages/",
-      "outputPath": "/Users/nitishkumar/Rohit/selenium_tests/obj/",
+      "outputPath": "/Users/nitishkumar/Downloads/git online/testsaleniumrohit/selenium_tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nitishkumar/.nuget/NuGet/NuGet.Config"
